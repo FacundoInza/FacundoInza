@@ -42,9 +42,24 @@ Soy un estudiante entusiasta de ingeniería informática con experiencia laboral
 ### Otros
 
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
--```markdown
 - ![API Rest](https://img.shields.io/badge/API_Rest-FF0000?style=for-the-badge&logo=api&logoColor=white)
 - ![Clean Code](https://img.shields.io/badge/Clean_Code-008000?style=for-the-badge)
 - ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-FF8C00?style=for-the-badge)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## Idiomas
+
+- Español (nativo)
+- Inglés (intermedio)
+
+## Contacto
+
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-inza/)
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FacundoInza)
+- Email: facundoinza5@gmail.com
+- Teléfono: (+54) 2236198565
+
+## Ubicación
+
+Argentina - Buenos Aires - Mar del Plata
+España - Valencia
