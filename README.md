@@ -2,7 +2,7 @@
 
 ## Perfil
 
-Soy un estudiante entusiasta de ingeniería informática con experiencia laboral en el campo hotelero. Mi reciente finalización exitosa de un bootcamp en Plataforma5 ha intensificado mi amor por la tecnología y la programación. Estoy ansioso por encontrar oportunidades en el mundo de la tecnología y seguir creciendo profesionalmente.
+Soy un estudiante entusiasta de ingeniería informática con experiencia en desarrollo web.
 
 ## Educación
 
